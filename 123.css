@@ -1,0 +1,24 @@
+.border{
+	border: 1px solid black;
+	border-radius: 10px;
+	height: 200px;
+	width: 300px;
+	overflow: hidden;
+}
+
+h1{
+	font-size: 1.2em;
+	margin-bottom: 0px;
+}
+
+.second-div{
+	height: 100%;
+	width: 85%;
+	overflow: auto;
+	padding: 0.5em 3.5em 0.5em 0.5em;
+	background-color: #ffc;
+	background-image: url(https://i.imgur.com/cHFidPz.png);
+	background-repeat: no-repeat;
+	background-position: right 1.5em top;
+	background-attachment: local;
+}
